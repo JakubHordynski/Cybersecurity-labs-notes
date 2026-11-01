@@ -26,10 +26,46 @@
   * Gained practical comfort with both standalone Windows systems and the directory services (AD) that manage them at scale.
 
 ## 4. Command Line
-* **Status:** Completed (3 October 2026)
+* **Status:** Completed (4 October 2026)
 * **Overview:** Practical introduction to command-line interfaces across both major operating systems — PowerShell and the Windows command line, and Bash in Linux — essential for scripting, automation, and many security tools.
 * **Key Takeaways:**
   * Completed Windows Command Line, practicing essential native Windows commands.
   * Completed Windows PowerShell, learning the basics of PowerShell as a more powerful scripting and administration tool.
   * Completed Linux Shells, exploring scripting fundamentals and the different types of shells available in Linux.
   * Built cross-platform CLI comfort, a core requirement for configuring security tools, automating tasks, and carrying out penetration testing or incident analysis.
+
+## 5. Networking
+- **Status:** Completed (12 October 2026)
+- **Overview:** Deep dive into network architecture, covering the OSI model, the TCP/IP protocol suite, everyday networking protocols, and essential traffic analysis and network reconnaissance tools.
+- **Key Takeaways:**
+  * Completed Networking Concepts and Essentials, learning about the OSI model, TCP/IP protocol suite, automatic configuration, and packet routing.
+  * Completed Networking Core Protocols and Secure Protocols, exploring everyday plaintext protocols as well as TLS, SSH, and VPNs to secure network traffic.
+  * Completed Wireshark: The Basics and Tcpdump: The Basics, learning how to capture, save, filter, and analyze packets and PCAP files.
+  * Completed Nmap: The Basics, mastering how to discover live hosts, find open ports, and detect service versions.
+
+## 6. Cryptography
+- **Status:** Completed (19 October 2026)
+- **Overview:** Exploration of modern cryptography foundations, covering symmetric and asymmetric encryption algorithms, hashing mechanisms, and password-cracking methodology.
+- **Key Takeaways:**
+  * Completed Cryptography Basics, learning the fundamentals of cryptography and symmetric encryption.
+  * Completed Public Key Cryptography Basics, discovering how public key ciphers like RSA work and their role in applications such as SSH.
+  * Completed Hashing Basics, learning about hashing functions and their uses in password verification and file integrity checking.
+  * Completed John the Ripper: The Basics, learning how to use a powerful and adaptable hash-cracking tool.
+
+## 7. Exploitation & Metasploit
+- **Status:** Completed (26 October 2026)
+- **Overview:** Practical introduction to vulnerability assessment, real-world exploits, and industry-standard penetration testing frameworks.
+- **Key Takeaways:**
+  * Completed Moniker Link (CVE-2024-21413), learning how to leak user credentials and bypass Outlook's Protected View.
+  * Completed Metasploit: Introduction and Metasploit: Exploitation, learning the core framework components, scanning, vulnerability assessment, and exploitation.
+  * Completed Metasploit: Meterpreter, taking a deep dive into in-memory payloads for post-exploitation activities.
+  * Completed Blue, deploying and hacking into a Windows machine by leveraging common misconfiguration issues.
+
+## 8. Web Hacking
+- **Status:** Completed (01 November 2026)
+- **Overview:** Introduction to web application security, examining how web architectures function and how to identify and exploit common web vulnerabilities.
+- **Key Takeaways:**
+  * Completed Web Application Basics, learning about HTTP, URLs, request methods, response codes, and headers.
+  * Completed JavaScript Essentials, understanding how to use JavaScript for website interactivity and exploring associated vulnerabilities.
+  * Completed SQL Fundamentals, learning how to perform basic queries to retrieve and manage data in a database.
+  * Completed Burp Suite: The Basics, getting an introduction to using the platform for web application pentesting.
