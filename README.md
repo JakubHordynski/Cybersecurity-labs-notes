@@ -1,2 +1,2 @@
 # CYBERSECURITY
-Lab notes, methodology, and key takeaways from TryHackMe cybersecurity training.
+Lab notes, methodology, and key takeaways from cybersecurity training.
